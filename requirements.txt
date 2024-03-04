@@ -1,0 +1,15 @@
+amocrm==0.7.7
+amocrm-api==2.6.1
+certifi==2023.11.17
+charset-normalizer==3.3.2
+coverage==7.4.0
+idna==3.6
+pyaes==1.6.1
+pyasn1==0.5.1
+PyJWT==2.8.0
+requests==2.31.0
+rsa==4.9
+Telethon==1.33.1
+urllib3==2.1.0
+whatsapp-api-client-python==0.0.44
+whatsapp-chatbot-python==0.8.0
